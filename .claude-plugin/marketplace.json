@@ -1,0 +1,20 @@
+{
+  "name": "vulca-plugins",
+  "owner": {
+    "name": "Vulca maintainers"
+  },
+  "metadata": {
+    "description": "Agent-native visual control workflows for Claude Code.",
+    "version": "0.23.1"
+  },
+  "plugins": [
+    {
+      "name": "vulca",
+      "source": "./",
+      "description": "Visual discovery, decomposition, planning, and cultural evaluation workflows for Claude Code.",
+      "version": "0.23.1",
+      "category": "creative-workflows",
+      "tags": ["visual-control", "image-generation", "mcp", "creative-direction"]
+    }
+  ]
+}
